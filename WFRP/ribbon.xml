@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" loadImage="GetImage">
+    <ribbon>
+        <tabs>
+            <tab id="tabWFRP" label="WFRP">
+                <group id="Dice" label="Dice">
+                  <button id="d100Button" label="d100" size="large" screentip="Roll a d100" onAction="rollD100" image="d100.png"/>
+                  <button id="d10Button" label="d10" size="large" screentip="Roll a d10" onAction="rollD10" image="d10.png"/>
+				        </group>
+              <group id="nameGen" label="Name Generation">
+                <button id="maleNameGen" label="Male" size="normal" screentip="Generate a Male Name" onAction="MaleGen" image="male.png"/>
+                <button id="femaleNameGen" label="Female" size="normal" screentip="Generate a Female Name" onAction="FemaleGen" image="female.png"/>
+                <button id="surnameGen" label="Surname" size="normal" screentip="Generate a Surname" onAction="SurnameGen" image="surname.png"/>
+              </group>
+              <group id="advanceCalc" label="Advance Calculator">
+                <button id="xpNeeded" label="XP Needed" size="large" screentip="How much XP to get to an Advance" onAction="XpNeeded" image="xp_cross.png"/>
+                <button id="advancesPossible" label="Advances Possible" size="large" screentip="How many Advances given an amount of XP" onAction="AdvancesPossible" image="cross_question.png"/>
+              </group>
+              <group id="coinDenom" label="Coin Denominations">
+                <button id="goldcrowns" label="Gold Crown" size="large" onAction="CoinClicked" image="goldcrown.png"/>
+                <button id="silvershillings" label="Silver Shilling" size="large" onAction="CoinClicked" image="silvershilling.png"/>
+                <button id="brasspenny" label="Brass Penny" size="large" onAction="CoinClicked" image="brasspenny.png"/>
+              </group>
+              <group id="tabletest" label="Table">
+                <button id="table" label="Table test" size="large" onAction="VanillaAddInButtonClicked"/>
+              </group>
+          </tab>
+        </tabs>
+    </ribbon>
+</customUI>
+

@@ -1,0 +1,774 @@
+001 Adel, -hard, -hof(fer), -mann
+002 Adler(mann)
+003 Adolphus
+004 Agbeit(-en)
+005 Ahlen, -heim(er), -hof(fer)
+006 Ahresdorf(-er)
+007 Albrecht
+008 Alder(mann)
+009 Alexander
+010 Algir, -s(s)en, -sohn
+011 Allen(stag)
+012 Alp, -er(mann), -mann, -traum
+013 Alt, -haus(en), -mann
+014 Altdorf, -er, -mann
+015 Anders, -(s)en, -sohn
+016 Ansel, -dorf(er), -mann
+017 Ardlich, -mann, -stein
+018 Aren, -berg(er)
+019 Arsch, -el(mann), -mann
+020 Art(h)ur, -mann
+021 Aschaffen, -berg(er)
+022 Aschen, -dorf(er)
+023 Atzwig(er)
+024 Auerswald(er)
+025 Aufwieg, -er, -mann
+026 Auggen(er)
+027 Augustus
+028 Aukruger(mann)
+029 Aulen, -bach(er)
+030 Aussen, -berg(er)
+031 Autler(mann)
+032 Aver, -land(er), -lund(er)
+033 Ba(h)renfahr(er)
+034 Baak, -er(mann)
+035 Bach, -er(mann)
+036 Bad, -er(mann)
+037 Bae(h)r(n), -mann
+038 Baldurich
+039 Bar(d)t, -heim(er), -mann
+040 Bar(f)sheim(er)
+041 Barwedel(mann)
+042 Baum, -er, -ann
+043 Bech, -afen, -er, -mann
+044 Beck, -er(mann)
+045 Bedien, -er, -ste(d)t(er)
+046 Beecker, -hoven, -mann
+047 Beel(en)
+048 Behn(er)
+049 Beil, -en, -mann
+050 Berg, -er, -hof, -mann, -sburg
+051 Bergen, -dorf(er)
+052 Bernau, -er, -mann
+053 Bernloch(er)
+054 Besch, -er, -lager, -mann
+055 Bessen, -dorf(er), -er, -mann
+056 Betz, -er(mann), -mann
+057 Bey, -er(mann), -mann
+058 Biber, -dorf(er), -mann
+059 Bieswang, -er
+060 Bildhof, -en, -fen
+061 Birkwiese, -n, -r
+062 Birnbaum(er)
+063 Bischof(fer)
+064 Blass(mann)
+065 Blatt(mann)
+066 Bleich, -dorf(er), -mann
+067 Blitz(en)
+068 Blutdorf(er)
+069 Blutroch(er)
+070 Bo(h)rn, -dorf(er), -er, -mann
+071 Boe(h)m(ann)
+072 Boeglin
+073 Bogen, -dorf(er), -hagen
+074 Bohne(r)
+075 Bohsen, -er, -fels
+076 Borg, -er, -mann
+077 Bosel(mann)
+078 Boven, -berg(er)
+079 Brande(n), -burg(er), -stadt(er)
+080 Bratsch, -er(mann), -mann
+081 Brau, -er(mann), -mann
+082 Braun, -dorf(er), -wurt(er)
+083 Breder(mann)
+084 Breiten, -bach(er)
+085 Bremer(mann)
+086 Brenner(mann)
+087 Breuer
+088 Brigund, -er, -mann
+089 Brucker(t), -er
+090 Bu(s)ch, -dorf(er), -er(wald)
+091 Bucker(mann)
+092 Bugel, -hof(fer), -mann
+093 Bugmann
+094 Burg, -er, -mann
+095 Carolus
+096 Carro, -burg(er), -mann
+097 Claus, -ewitz, -sen, -sohn
+098 Dachbach, -er, -mann
+099 Dahmbach, -er, -mann
+100 Dammen, -blatz(er), -er
+101 Damstadt(er)
+102 Dassel, -er(mann), -mann
+103 Dein, -er(mann)
+104 Delb, -erz(er), -mann
+105 Delfgruber(mann)
+106 Delfholt(er)
+107 Denkh(mann)
+108 Dick(er)
+109 Diesdorf(er)
+110 Diet(e)rich
+111 Dieter(smann)
+112 Dietfurt(er)
+113 Dietmar(ingen)
+114 Dietz(gen)
+115 Ditmarus
+116 Donatus
+117 Dorchen(er)
+118 Dorfbach(er)
+119 Dorn(er), -mann
+120 Dottern, -bach(er)
+121 Drak(en), -hof(fer), -wald(er)
+122 Drau, -pnir, -wulf
+123 Dreetz(mann)
+124 Dreifluss(en)
+125 Dresschler(mann)
+126 Droevig(ger)
+127 Druck(er), -mann
+128 Dun(n), -stigfurt(er)
+129 Dunkel, -berg(er), -bild(er)
+130 Durb, -er(mann), -mann
+131 Durrbein(er)
+132 Duster(mann)
+133 Eber, hard(t), -hauer, -linus, -t
+134 Egidius
+135 Egling, -berg(er)
+136 Ehrhard
+137 Eiche(n/r), -smann
+138 Eif(f)er, -mann
+139 Eigen, -hof(fer)
+140 Eilhard(t)
+141 Eimar(ingen)
+142 Eining(ger)
+143 Einsam, -holz(er)
+144 Eisen, -er, -hauer, -tal
+145 Elbing(er)
+146 Eldebran(d)t
+147 Elster, -mann, -weld
+148 Elzach(er)
+149 Emskrank(er)
+150 Endal, -er(mann), -mann
+151 Engel, -er, -gerus
+152 Engle, -heim(er), -mann, -r
+153 Ensdorf(er)
+154 Eppledorf(er)
+155 Erasmus
+156 Erlemann(us)
+157 Ernestus
+158 Erzberg(er)
+159 Eschlimann17
+160 Eshemann
+161 Esker, -er, -mann
+162 Esmer(ingen)
+163 Essel, -furt(er), -mann
+164 Essen, -er, -mann
+165 Essing, -er, -mann
+166 Eucken(er)
+167 Eustasius
+168 Falken, -er, -heim(er), -mund
+169 Fallen, -blatt(er)
+170 Farb(er)
+171 Faust, -er, -(er)mann, -us
+172 Fehr, -er, -fels, -mann
+173 Feld(er), -mann
+174 Ferlangen(er)
+175 Feuer, -bach(er)
+176 Fiegler(mann)
+177 Finster(mann)
+178 Fintel(mann)
+179 Fischer(mann)
+180 Fleisch(er)
+181 Flensburg(er)
+182 Fleugwien(er)
+183 Fluss, -berg(er), -mann
+184 Forten(haffer)
+185 Franz(en)
+186 Freder, -heim(er), -ick, -mann
+187 Freital(er)
+188 Fremlicht(mann)
+189 Fride, -linus, -ricus
+190 Fried(en), -dorf(er), rich
+191 Friemann
+192 Fritz(en)
+193 Frohlich(mann)
+194 Froter(mann)
+195 Frueh, -mann, -ner
+196 Fuchs, -wald(er)
+197 Furtild(er)
+198 Furtz, -haus(en), -mann
+199 Gaert, -mann, -ner
+200 Gaffwig(er)
+201 Garmann
+202 Garndorf(er)
+203 Garner
+204 Garssen(er)
+205 Garten, -er, -mann
+206 Gauss, -er, -mann
+207 Gawin(us)
+208 Gebauer
+209 Geben, -(au)er, -bach(er)
+210 Geiss, -bach, -ler, -mann
+211 Gelb(er), -hugel, -mann
+212 Geldrecht(er)
+213 Gelt, -ing, -mann
+214 Gemunsen, -bad(er)
+215 Georg, -en, -(i)us
+216 Gerber(mann)
+217 Gerdouen
+218 Gersdorf(er)
+219 Gerzen(er)
+220 Geshburg(er)
+221 Gimmenhagen
+222 Gipfel, -er, -mann
+223 Gisel, -bert(us)
+224 Gisler(us)
+225 Gladisch(er)
+226 Glaser(mann)
+227 Gluckshalt
+228 Godgraf(en)
+229 Gold, -berg, -mann
+230 Gormann
+231 Gostahof(fer)
+232 Gottlieb
+233 Gozwin(us)
+234 Grafen(rich)
+235 Grasser(mann)
+236 Grau(en), -berg(er), -mann
+237 Graveur
+238 Greft(er), -mann
+239 Grenz, -berg(er), -mann
+240 Greven, -er, -feld(er)
+241 Griss(en), -mann, -wald(er)
+242 Gros(s/z), -bad, -bart, -kirche
+243 Gruben, -er, -treich(er)
+244 Grun(en), -burg(er), -feld(er)
+245 Gruyden(er)
+246 Gunders(en/ohn)
+247 Gunt(h)er, -mann, -sen, -sohn
+248 Gusserin(gen)
+249 Gustaf, -sen, -sohn
+250 Gustav(us)
+251 Gutt(mann)
+252 Haarig(iner)
+253 Hagen, -auer, -er
+254 Hahn, -bran(d)t
+255 Haiger(mann)
+256 Haintz(mann)
+257 Halheim(er)
+258 Hall, -er(mann) –mann
+259 Hals, -bret(ter), -stedt(er)
+260 Hammer(mann)
+261 Hander(ich)
+262 Handl, -er, -mann
+263 Hannus
+264 Hans(en/ohn)
+265 Harden
+266 Hargendorf(er)
+267 Harke(r), -mann
+268 Harsum(ner)
+269 Hart, -mann, -mund(us)
+270 Hassel, -hund, -mann
+271 Haupt(mann)
+272 Hauptleiter
+273 Hausern(er)
+274 Hausier
+275 Hazel(mann)
+276 Heffengen(er)
+277 Heideck(er)
+278 Heidmann
+279 Heilemann
+280 Heiligdorf(er)
+281 Heiligen(er)
+282 Heinric(us)
+283 Heinrich
+284 Heinz
+285 Heisen, -berg(er)
+286 Hel(l), -borg, -er(mann)
+287 Helembertus
+288 Hellenboldus
+289 Helmgart(er)
+290 Henric(us)
+291 Henroth
+292 Herbart(er)
+293 Herde(i)n(us)
+294 Hergig(er)
+295 Hermsmann
+296 Hertwig(er)
+297 Herz, -er, -feld
+298 Herzhald(er)
+299 Herzog
+300 Heukern(er)
+301 Hexens(en/ohn)
+302 Hilde, -bran(d)t, -mann, -r
+303 Hillen, -brand(t), -er
+304 Hinfallig(er)
+305 Hinz(er)
+306 Hirsh, -el, -hugel
+307 Hirtz(el)
+308 Hoch, -elben, -ener, -land(er)
+309 Hoef, -er, -mann
+310 Hof(f), -er, -ner, -ste(d/t)t(er)
+311 Hohner, -berg, -mann
+312 Hollseh(e)r
+313 Holst, -ein(er)
+314 Holt, -er(mann), -husen
+315 Holz, -bach(er), -beck(er)
+316 Horn(lach)
+317 Horst(mann)
+318 Hovel, -hof(fer)
+319 Hugel, -dal, -mann
+320 Hull, -und(er)
+321 Hund, -ham(mer), -mann
+322 Hunxe(ner)
+323 Hupste(d)t, -er
+324 Huss, -en, -ener
+325 Hutten, -dorf(er)
+326 Immelsheld(er)
+327 Ja(e)ger, -hausen
+328 Jacob, -sen, -sohn
+329 Jehlfeld, -er(mann), -mann
+330 Jeronymus
+331 Jochutz, -er(mann), -mann18
+332 Jodocus
+333 Jodokus
+334 Jokodus
+335 Julbach, -er(mann),
+336 Jung, -bach(er), -mann
+337 Jutzen, -bach, -bach(er)
+338 Juwelier
+339 Kahl, -er, -mann
+340 Kalb, -er, -mann
+341 Kaldach(er), -mann
+342 Kalten, -bach(er)
+343 Kammendun(ner)
+344 Kant, -(n)er
+345 Karolus
+346 Kaunitz(er)
+347 Kelham(mer)
+348 Kell, -er(mann)
+349 Kemp, -er(mann)
+350 Kerr(mann)
+351 Kess, -er(mann), -ler
+352 Kessler, -berg(er), -mann
+353 Kiel(l), -er(mann),
+354 Kirchham
+355 Klein, -dorf(er), -geld
+356 Klemperer
+357 Klepzig
+358 Kless, -er, -mann, -ner
+359 Knecht, -mann
+360 Knefler
+361 Kno(e)del, -mann
+362 Knopf(ler)
+363 Knorren(er)
+364 Koch, -er, -mann
+365 Koeriner
+366 Kohl, -berg(er), -er, -mann
+367 Kolm, -fahre, -ann
+368 Konig, -samen, -sdorf(er)
+369 Konrad
+370 Kopfgeld(er)
+371 Kotzen, -er, -heim(er)
+372 Kra(e)mer
+373 Kraut, -hof(fer)
+374 Krebs
+375 Kreideklippe(r)
+376 Kreutzhof, -fer, -fen
+377 Krieg, -er, -litz, -mann
+378 Kroppen, -er, -leben(er)
+379 Kruden, -wald(er)
+380 Krugar(mann)
+381 Krugen
+382 Ku(p)fer
+383 Kuester(mann)
+384 Kuhlpeper
+385 Kuhn
+386 Kuller(mann)
+387 Kulzmann
+388 Kummel(er)
+389 Kunstler(mann)
+390 Kunz
+391 Kursh, -er, -ner, -wasser
+392 Kurst
+393 Kurt, -ner, -waller
+394 Kurz, -mann, -weil(er)
+395 Kusel(mann)
+396 Kuster(mann)
+397 Lachen(bad)
+398 Lambertus
+399 Lampertus
+400 Lang, -berg(er), -e, -er(mann)
+401 Lank, -dorf(er), -er(mann)
+402 Last(kahn)
+403 Laurencius
+404 Laut, -er(berg/mann)
+405 Le(d)er, -er(mann)
+406 Leben, -er, -gut(ter), -stein
+407 Lechar(d)t, -er,
+408 Lehr, -er(mann)
+409 Leich, -er(mann), -erdorf(er)
+410 Leichlin, -berg(er)
+411 Leitdorf(er)
+412 Lengen, -feld(er)
+413 Lenkster, -berg(er), -mann
+414 Leonard(us)
+415 Less(er)
+416 Libing(us)
+417 Licht(er), -mann
+418 Lieb, -er(mann), -mann, -nitz
+419 Lieske(n)
+420 Liess(er), -mann
+421 Linden, -heim(er)
+422 Lindt, -er(mann), -mann
+423 Liphard(us)
+424 Lochen, -berg(er)
+425 Lohr, -er, -mann
+426 Longingbruck
+427 Lorrenstein(er)
+428 Lu(it)pold(us)
+429 Lubrecht
+430 Luden, -hof(fer)
+431 Ludevic(us)
+432 Ludovic(us)
+433 Ludwig
+434 Luft, -berg(er), -mann
+435 Lukas
+436 Lustig
+437 Luther(ius)
+438 Lutz(en)
+439 Machholt(er)
+440 Mader, -berg(er)
+441 Mahler
+442 Mann, -fre(i)d, -richt, -sleib
+443 Mantel(mann)
+444 Marbad
+445 Marburg(er)
+446 Markus
+447 Marsner, -berg(er)
+448 Masel, -hof(fer)
+449 Maternus
+450 Matheus
+451 Matter, -sheim(er)
+452 Matthias
+453 Maurer
+454 Me(h)l, -beck(er), -ing(er)
+455 Meer(mann)
+456 Mehler, -berg(er)
+457 Meier, -hof(fer), -stadt
+458 Meinhard(t)us
+459 Meissen, -au(er), -mann
+460 Mencken, -berg(er)
+461 Menmann
+462 Merret, -heim(er)
+463 Mess, -ingen, -ner
+464 Metzger
+465 Meus, -berg(er), mann
+466 Meyer, -berg(er), -hof(fer)
+467 Midden, -heim(er), -land(er)
+468 Mielau
+469 Mikalsdorf(er)
+470 Missen(er)
+471 Misthaus(en)
+472 Mittel, -er, -berg(er), -mann
+473 Moesch(er)
+474 Mohr, -furt(er), -mann
+475 Monheim(er)
+476 Muden, -er, -mann
+477 Muhl, -feld(er), -mann
+478 Muller/Mueller, -berg(er)
+479 Munken, -hof(fer)
+480 Naabeck(er)
+481 Nacht, -berg(er), -mann
+482 Naffdorf(er)
+483 Nagel, -burg(er), -mann
+484 Nagenhof(fer)
+485 Naubhof(fer)
+486 Naumann
+487 Netzhoch
+488 Neuberg(er)
+489 Neumann/Niemann
+490 Ni(e)der, -er, -fels, -litz
+491 Nik(o)la(u)s
+492 Nord(en), -er(mann)
+493 Nuhr(en), -hof(fer)
+494 Nullen(er), -mann
+495 Nuln(er), -mann
+496 Nussbach(er)
+497 Obel, -mann, -stein(er)
+498 Ober, -holtz(er), -mann, -wil
+499 Ockholm/Ockmann
+500 Oehl(inger), -mann
+501 Ohrsten, -furt(er)
+502 Olden, -hall(er), -litz
+503 Opfer19
+504 Oppenheim(er)
+505 Ortolphus
+506 Ossmann
+507 Ost(wald), -mann
+508 Ostermark(er)
+509 Ostland(er)
+510 Ott(o)
+511 Otzlowe
+512 Owingen(er)
+513 Pancracius
+514 Pappenheim(er)
+515 Pau(e)lus
+516 Pellen, -berg(er), -stein(er)
+517 Peregrinus
+518 Peters(en/ohn),
+519 Pfaffbach(er)
+520 Pfandleiher
+521 Pfannenschmi(d)t
+522 Pfe(i)ffer, -ing, -mann
+523 Pfeifraucher
+524 Pferig
+525 Pfiel(er), -dorf(er)
+526 Pfister(mann)
+527 Pfizer(mann)
+528 Pflaume
+529 Pfrommer
+530 Pfungzig, -er, -mann
+531 Philip(p)us
+532 Pilsach(er)
+533 Plauen
+534 Postmann
+535 Prahm(handler)
+536 Priestlich
+537 Pritzstock(er)
+538 Punzen(mann)
+539 Puttkammer
+540 Quintus
+541 Raab(mann)
+542 Rabe(r), -mann
+543 Rader(mann)
+544 Radische
+545 Ralf(mann)
+546 Ramsau(er)
+547 Ramvold(us)
+548 Ranal(d/t)/Ranelf/Rangen
+549 Rech, -lich, lichmann, -mann
+550 Rechtshandler
+551 Regakhof(fer)
+552 Regimius
+553 Reichert
+554 Reif(sneider)
+555 Reik, -har(d)t, -land(er)
+556 Reit(er), -mann, -wein
+557 Remermann
+558 Renmann
+559 Reuter, -berg(er), -mann
+560 Rheden, -(au)er
+561 Richter, -furt(er), -mann
+562 Richthofen
+563 Riese(n)
+564 Ripert(us)
+565 Ripmann
+566 Ristedt(ler)
+567 Roban, -heim(er)
+568 Rodzin(ner)
+569 Roft, -helm, -mann
+570 Rohr, -haus(en), -ig, -mann
+571 Rosche(r), -mann
+572 Rot(h)bart
+573 Rott, -furt(er), -mann
+574 Rudel(mann)
+575 Rugen, -buttle(r)
+576 Ruggbrod(er)
+577 Ruh, -furt(er), -gsdorf(er)
+578 Russ, -bach(er), -mann
+579 S(i)egel, -er, -mann
+580 Sabritz
+581 Sal(t)z, -berg(er), -enmund
+582 Sandler, -berg(er)
+583 Sarner(ingen)
+584 Sauber(mann)
+585 Scha(e)f(f)er
+586 Scharf(ner)
+587 Scharm, -beck(er)
+588 Schatten, -las, -tall(er)
+589 Schatz, -en, heim(er), -mann
+590 Schaum(er)
+591 Scheinfeld(er)
+592 Schenk, -enfels, -er, -mann
+593 Scher, -er, -mann
+594 Schiff, -bau(er), -mann
+595 Schilder, -heim(er), -mann
+596 Schill(er), -mann
+597 Schippel(mann)
+598 Schlafebild(er)
+599 Schleiermach(er)
+600 Schlitz(er), -mann
+601 Schloss(er), -berg(er), -mann
+602 Schlu(e)t(er), -mann
+603 Schmi(d)t, -z
+604 Schneider, -hof(fer), stadt
+605 Schon, -enburg, -er, -mann
+606 Schoppen, -dorf(er), -heim(er)
+607 Schot(ten), -er, -mann
+608 Schrader, -berg(er), mann
+609 Schram, -leben(s)
+610 Schreiber
+611 Schreiner
+612 Schroeder
+613 Schubert
+614 Schuhmann
+615 Schul(er), -mann
+616 Schul(t)z, -mann
+617 Schumacher
+618 Schumann
+619 Schuster, -dorf(er)
+620 Schutzmann
+621 Schwab
+622 Schwar(t)z, -er, -feld, -kopf
+623 Sehlag
+624 Seiger, -mann
+625 Seimger, -holz, -holzer, -mann
+626 Selz, -berg, -mann
+627 Semmel, -mann, -weiss
+628 Senden(er)
+629 Si(e)gfried
+630 Siegenhaus(en)
+631 Sif(f)ridus
+632 Sig(is)mund(us)
+633 Sigmar, -sen, -sohn
+634 Silber, -mann, -wurt
+635 Sokh(mann)
+636 Solland(er)
+637 Sorghof(fer)
+638 Spaltmann
+639 Sprinthof(fer)
+640 Stahl(mann)
+641 Stamm(ler)
+642 Stark
+643 Stauding(er)
+644 Steiger, -wal(d)t
+645 Stein, -bec(h/k), -dorf(er), -er
+646 Steuben
+647 Stimmingen
+648 Stirland(er)
+649 Stock, -haus(en), -se
+650 Stoem(m), -er(mann)
+651 Stolz(er)
+652 Streicheln
+653 Streissen(er)
+654 Stroh(mann)
+655 Studebaker
+656 Suden(er)
+657 Suder, -burg, -mann
+658 Surhar(d)t
+659 Suss(er)mann
+660 Sydow
+661 Szeck, -ler(mann), -mann
+662 T(ho)msen
+663 Tabbeck(er)
+664 Tal(a)b(ec), -heim(er)
+665 Talecht(mann)
+666 Taleuten(er)
+667 Tannfeld(er)
+668 Tarshof(fer)
+669 Taub(er), -wasser, -mann
+670 Tauer(mann)
+671 Tempel, -hof(fer)
+672 Tennecker(mann)
+673 Teub, -er(mann), -mann
+674 Teufelfeuer
+675 Teutogen
+676 Thad(d)eus
+677 Theodosius
+678 Theodric(us)
+679 Theophilus
+680 Thietmar(us)
+681 Thuringmann
+682 Thyrus
+683 Tiermann
+684 Til(ler)mann
+685 Tinz
+686 Todbringer
+687 Tolzen
+688 Topfer
+689 Torpiner
+690 Traschel(mann)
+691 Trautenau
+692 Tubb(mann)
+693 Turmgever
+694 Ubersreik(er)
+695 Uder(mann)
+696 Ueblingen, -er, -heim(er)
+697 Uhl
+698 Ulfred
+699 Ulli
+700 Ulric(h)(us)
+701 Ulric, -er, -mann
+702 Unberogen
+703 Unruh
+704 Unterbaum(er)
+705 Untergard(er)
+706 Ursash
+707 Vaksmann
+708 Vanden, -er, -gart(er)
+709 Veit, -er, -mann
+710 Verborgen
+711 Viernau
+712 Vincencius
+713 Vodfer
+714 Vogel
+715 Vogt
+716 Volgen(er)
+717 Volmann
+718 Volsbacher
+719 Vonreuter
+720 Wa(h)nn, -mann, -siningen
+721 Wagner
+722 Wald(en), -mann, -schmi(d)t
+723 Walfen, -burg(er)
+724 Walt(h)er(us)
+725 Wanner
+726 Warrenburg(er)
+727 Weber, -hof(fer)
+728 Wechs, -ler(mann), -mann
+729 Wegener
+730 Weidemann
+731 Weil(l)(er), -berg(er), -mann
+732 Weimer(er)
+733 Weiss, -bruck(er), -mann
+734 Welleborn
+735 Wendorf(er)
+736 Weningen(ner)
+737 Werd(er)
+738 Wern(h)er, -hof(fer), -us
+739 Wester, -burg(er), -mann
+740 Westerland(er)
+741 Widmann
+742 Widmer
+743 Wigand(us)
+744 Wilhelm
+745 Willen, -er, -feld(mann)
+746 Wilric(us)
+747 Winandus
+748 Winkle(r), -mann
+749 Winric(h) (us)
+750 Winsen, -fels, -mann
+751 Wirtz
+752 Wiss(en), -land(er), -mann
+753 Witt(gen), -dorf(er), -mann
+754 Woell(er), -mann
+755 Wolf, -(h)il(d)a, -mann
+756 Wordern(er)
+757 Worlitz(er)
+758 Wuppert(al)
+759 Wurfel(ler)
+760 Wurst, -heim(er), -mann
+761 Wurt(er)
+762 Wurzen(er)
+763 Wusterburg(er)
+764 Zanger(mann)
+765 Zauberlich(er)
+766 Zech(er), -mann
+767 Zeder, -er, -mann
+768 Zeisholz(er)
+769 Zell, -er(mann), -mann
+770 Zimmer(mann)
+771 Zumwald(er)
+772 Zurin(er)
+773 Zurzen, -er, -mann
+774 Zweistein(er)
