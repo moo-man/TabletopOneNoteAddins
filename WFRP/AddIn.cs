@@ -124,7 +124,6 @@ namespace OneNote.WFRP
 		public void OnConnection(object Application, ext_ConnectMode ConnectMode, object AddInInst, ref Array custom)
 		{
             SetOneNoteApplication((Application)Application);
-
         }
 
         public void SetOneNoteApplication(Application application)
