@@ -21,9 +21,10 @@
                 <button id="silvershillings" label="Silver Shilling" size="large" onAction="CoinClicked" image="silvershilling.png"/>
                 <button id="brasspenny" label="Brass Penny" size="large" onAction="CoinClicked" image="brasspenny.png"/>
               </group>
+              <!--
               <group id="tabletest" label="Table">
                 <button id="table" label="Table test" size="large" onAction="VanillaAddInButtonClicked"/>
-              </group>
+              </group>-->
           </tab>
         </tabs>
     </ribbon>
